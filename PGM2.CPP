@@ -1,3 +1,5 @@
+//Checks whether all the numbers entered are within the specified range.
+
 #include<iostream.h>
 #include<stdlib.h>
 #include<conio.h>
