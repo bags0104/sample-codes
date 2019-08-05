@@ -1,3 +1,5 @@
+//Calculates the number of times the max element is repeated.
+
 
 #include<stdio.h>
 #include<conio.h>
